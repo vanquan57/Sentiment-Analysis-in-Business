@@ -1,0 +1,11 @@
+domain,language,rows_read,skipped,label_0,label_1,label_2,mean_chars,median_chars,mean_words,median_words,path
+amazon_reviews,de,6000,0,2000,2000,2000,230.11,179.00,36.34,28.00,D:\HK8\Chuyên đề\Final_Project\datasets\amazon_reviews_multi\de\train.csv
+amazon_reviews,en,6000,0,2000,2000,2000,204.15,156.00,38.74,29.00,D:\HK8\Chuyên đề\Final_Project\datasets\amazon_reviews_multi\en\train.csv
+amazon_reviews,es,6000,0,2000,2000,2000,168.83,137.00,30.73,25.00,D:\HK8\Chuyên đề\Final_Project\datasets\amazon_reviews_multi\es\train.csv
+amazon_reviews,fr,6000,0,2000,2000,2000,181.36,146.00,31.83,25.00,D:\HK8\Chuyên đề\Final_Project\datasets\amazon_reviews_multi\fr\train.csv
+amazon_reviews,ja,6000,0,2000,2000,2000,110.71,83.00,3.76,3.00,D:\HK8\Chuyên đề\Final_Project\datasets\amazon_reviews_multi\ja\train.csv
+amazon_reviews,zh,6000,0,2000,2000,2000,61.31,47.00,2.52,2.00,D:\HK8\Chuyên đề\Final_Project\datasets\amazon_reviews_multi\zh\train.csv
+neu_esc,vi,6000,0,2000,2000,2000,114.16,50.00,27.28,12.00,D:\HK8\Chuyên đề\Final_Project\datasets\hung20gg_NEU_ESC\NEU_ESC_processed.csv
+twitter_sentiment,en,6000,0,2000,2000,2000,137.02,128.00,22.17,21.00,D:\HK8\Chuyên đề\Final_Project\datasets\twitter_sentiment_en\Twitter_Data_processed.csv
+vietnamese_students_feedback,vi,6000,0,2000,2000,2000,49.69,36.00,11.98,9.00,D:\HK8\Chuyên đề\Final_Project\datasets\vietnamese_students_feedback\vietnamese_students_feedback_processed.csv
+yelp_restaurant_reviews,en,6000,0,2000,2000,2000,545.70,416.00,101.62,77.00,D:\HK8\Chuyên đề\Final_Project\datasets\yelp_restaurant_reviews\Yelp_Restaurant_Reviews_processed.csv
